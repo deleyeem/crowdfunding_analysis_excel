@@ -8,6 +8,7 @@ Crowdfunding platforms have gained significant popularity since the late 2000s, 
 Excel for data manipulation and analysis
   - Pivot Table
   - Conditional Formatting
+    
 Microsoft Word for creating a written report
 
 ## Process Description
