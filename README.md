@@ -13,7 +13,9 @@ Microsoft Word for creating a written report
 
 ## Process Description
 Data Transformation: Use formulas to add additional columns with data.
+
 Statisical Analysis: Calculate mean, median, minimum. maximum, variance, standard deviation to evaluate values for campaigns.
+
 Report Writing: Create a comprehensive report summarizing the findings, drawing conclusions, and highlighting limitations of the dataset.
 
 ## Conclusion
